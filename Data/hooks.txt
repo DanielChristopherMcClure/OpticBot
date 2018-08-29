@@ -1,0 +1,9 @@
+getMenuActions-client-km
+getMenuOptions-client-kf
+isMenuUp-client-jg
+getMenuWidth-eb-jl
+getMenuHeight-ej-jz
+getMenuOptionsCount-client-kj
+getMenuX-ah-jw
+getMenuY-bp-jn
+getLoginState-cq-af
